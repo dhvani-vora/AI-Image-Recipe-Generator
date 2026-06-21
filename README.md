@@ -122,10 +122,10 @@ python recipe_cli.py
 ```bash
 python gradio_app.py
 ```
-Open
-```
-http://127.0.0.1:7860/
-```
+  Open
+  ```
+  http://127.0.0.1:7860/
+  ```
 
 Make sure the image path inside the script points to a valid image file.
 
